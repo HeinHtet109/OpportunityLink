@@ -37,6 +37,15 @@
             MAIL_ENCRYPTION="tls or ssl"
             MAIL_FROM_ADDRESS=mail_username
             ...
+        ```
+      - Pusher Setup
+            SignUp your acount at https://pusher.com/
+        ```php
+            PUSHER_APP_ID=your_pusher_id
+            PUSHER_APP_KEY=your_pusher_key
+            PUSHER_APP_SECRET=your_pusher_secret
+            PUSHER_APP_CLUSTER=your_pusher_cluster
+            ...
         ```    
 - Run to setup database tables and columns structures
 ```php 
