@@ -38,8 +38,7 @@
             MAIL_FROM_ADDRESS=mail_username
             ...
         ```
-      - Pusher Setup
-            SignUp your acount at https://pusher.com/
+    - Pusher Setup https://pusher.com/
         ```php
             PUSHER_APP_ID=your_pusher_id
             PUSHER_APP_KEY=your_pusher_key
