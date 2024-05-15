@@ -1,4 +1,4 @@
-<p align="center"><img src="./public/assets/images/show-case.gif" width="300" height="300" alt="OpportunityLink Logo"></p>
+<p align="center"><img src="./public/assets/images/show-case.gif" height="700" alt="OpportunityLink Logo"></p>
 
 ## Installation instructions
 ### Requirements
